@@ -27,7 +27,6 @@ YouTube Line By Line Translated Subtitles
 9. Youtube Chapters Navigator (Tampermonkey script)
 In the Youtube player, when you hover over the right or left edge of the screen,
 simulates pressing CTRL+right/left arrow keys.
-
 This allows you to skip forward/backward between chapters in the video (if the author has inserted them).
 
 10. Google-link-copier (Tampermonkey script)

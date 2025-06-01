@@ -37,3 +37,13 @@ Adds the "Open link in background" option to the end of the context menu.
 
 12. X (Twitter)- Open post in background (Tampermonkey script)
 Adds an O icon to the top right corner of each post, which allows you to open the post in a new tab in the background.
+
+
+
+13. Jump between chapters like on YouTube (Ctrl+arrow)
+https://pastebin.com/jAzNtKZj
+
+14. YouTube adjusted time (show recalculated time at increased video speed)
+https://pastebin.com/LNaAmGVG
+
+

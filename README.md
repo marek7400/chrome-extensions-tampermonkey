@@ -46,6 +46,8 @@ https://pastebin.com/LNaAmGVG
 
 15. Remove elements v3 (work in Google Street View)
 16. X (Twitter)- Block users on Twitter in one click instead of 3. https://pastebin.com/yDgBVyMR
+17. YouTube - Always Show Filter Bar (Tampermonkey) - Pokazuj zawsze dodatkowy pasek z filtrami. 
+https://pastebin.com/PxzhanAk 
 
 
 

@@ -50,7 +50,7 @@ https://pastebin.com/LNaAmGVG
 https://pastebin.com/PxzhanAk
 18. Google exact match sorting (Google "Dopasowanie ścisłe" sortowanie) Tampermonkey script
 https://pastebin.com/EusGEyJA
-19. Youtube controls. Add icons Frame Forward, Frame Backward, Chapter Forward, Chapter Backward
+19. Youtube controls. Add icons Frame Forward, Frame Backward, Chapter Forward, Chapter Backward, Movie frame screenshot and Movie thumbnail screenshot
 https://pastebin.com/htF8b607
 
 

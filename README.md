@@ -53,5 +53,6 @@ https://pastebin.com/EusGEyJA
 19. Youtube controls. Add icons Frame Forward, Frame Backward, Chapter Forward, Chapter Backward, Movie frame screenshot and Movie thumbnail screenshot
 https://pastebin.com/htF8b607
 20. Fix Font Obfuscation (Show Real Text) https://pastebin.com/vQ0a20pB
-21. NAC (szukaj w archiwach) - auto miniaturki. Tampermonkey skrypt, który zamienia linki na FOTO. https://pastebin.com/n3hMCpMH 
+21. NAC (szukaj w archiwach) - auto miniaturki. Tampermonkey skrypt, który zamienia linki na FOTO. https://pastebin.com/n3hMCpMH
+22. Google Play - Image Fullscreen https://pastebin.com/Dkcjt5H6 
 

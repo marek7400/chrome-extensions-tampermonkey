@@ -54,5 +54,6 @@ https://pastebin.com/EusGEyJA
 https://pastebin.com/htF8b607
 20. Fix Font Obfuscation (Show Real Text) https://pastebin.com/vQ0a20pB
 21. NAC (szukaj w archiwach) - auto miniaturki. Tampermonkey skrypt, który zamienia linki na FOTO. https://pastebin.com/n3hMCpMH
-22. Google Play - Image Fullscreen https://pastebin.com/Dkcjt5H6 
+22. Google Play - Image Fullscreen https://pastebin.com/Dkcjt5H6
+23. Google Maps - Domyślny widok 3D bez etykiet + Ukrywanie UI https://pastebin.com/tH1rug4B
 
